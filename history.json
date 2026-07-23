@@ -1,0 +1,80 @@
+[
+  {
+    "time": 1784832603.7876298,
+    "date": "2026-07-24",
+    "time_of_day": "00:20:03",
+    "action": "autosave",
+    "target": "D:\\project\\output\\wordlist_20260723_185003.txt",
+    "candidates": 100,
+    "user": "dwc",
+    "generation_time": null,
+    "total_passwords": 100,
+    "export_type": "txt",
+    "output_file": "D:\\project\\output\\wordlist_20260723_185003.txt"
+  },
+  {
+    "time": 1784832603.724224,
+    "date": "2026-07-24",
+    "time_of_day": "00:20:03",
+    "action": "generate",
+    "target": "in-memory",
+    "candidates": 100,
+    "user": "dwc",
+    "generation_time": 0.00013065338134765625,
+    "total_passwords": 100,
+    "export_type": "generated",
+    "output_file": "D:\\project\\output\\wordlist.txt"
+  },
+  {
+    "time": 1784832565.7604458,
+    "date": "2026-07-24",
+    "time_of_day": "00:19:25",
+    "action": "autosave",
+    "target": "D:\\project\\output\\wordlist_20260723_184925.txt",
+    "candidates": 1000,
+    "user": "dwc",
+    "generation_time": null,
+    "total_passwords": 1000,
+    "export_type": "txt",
+    "output_file": "D:\\project\\output\\wordlist_20260723_184925.txt"
+  },
+  {
+    "time": 1784832565.6774395,
+    "date": "2026-07-24",
+    "time_of_day": "00:19:25",
+    "action": "generate",
+    "target": "in-memory",
+    "candidates": 1000,
+    "user": "dwc",
+    "generation_time": 0.00039839744567871094,
+    "total_passwords": 1000,
+    "export_type": "generated",
+    "output_file": "D:\\project\\output\\wordlist.txt"
+  },
+  {
+    "time": 1784832512.9452562,
+    "date": "2026-07-24",
+    "time_of_day": "00:18:32",
+    "action": "save",
+    "target": "D:\\project\\output\\wordlist.txt",
+    "candidates": 0,
+    "user": "admin",
+    "generation_time": null,
+    "total_passwords": 0,
+    "export_type": "txt",
+    "output_file": "D:\\project\\output\\wordlist.txt"
+  },
+  {
+    "time": 1784831905.1948748,
+    "date": "2026-07-24",
+    "time_of_day": "00:08:25",
+    "action": "save",
+    "target": "D:\\project\\output\\wordlist.txt",
+    "candidates": 0,
+    "user": "admin",
+    "generation_time": null,
+    "total_passwords": 0,
+    "export_type": "txt",
+    "output_file": "D:\\project\\output\\wordlist.txt"
+  }
+]

@@ -1,0 +1,64 @@
+2026-07-22 01:44:05,101 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 01:45:24,391 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 01:51:52,780 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 01:53:02,318 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 01:54:20,048 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 01:56:35,897 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:08:51,046 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:09:52,420 WARNING: Admin login cancelled or failed. Application will not launch.
+2026-07-22 02:09:59,122 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:10:22,895 WARNING: Admin login cancelled or failed. Application will not launch.
+2026-07-22 02:13:51,688 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:14:59,906 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:24:17,619 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:24:38,593 WARNING: Admin login cancelled or failed.
+2026-07-22 02:27:22,147 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:27:39,399 WARNING: Admin login cancelled or failed.
+2026-07-22 02:30:38,913 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:30:57,626 WARNING: Admin login cancelled or failed.
+2026-07-22 02:36:12,294 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:36:30,876 WARNING: Admin login cancelled or failed.
+2026-07-22 02:38:00,709 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:39:41,252 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:42:13,480 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:42:13,480 INFO: Creating AdminLogin window
+2026-07-22 02:42:13,590 DEBUG: AdminLogin window created, calling mainloop()
+2026-07-22 02:42:59,313 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:42:59,313 INFO: Creating AdminLogin window
+2026-07-22 02:42:59,424 DEBUG: AdminLogin window created, calling mainloop()
+2026-07-22 02:43:57,432 INFO: Returned from login.mainloop()
+2026-07-22 02:43:57,432 DEBUG: Login authenticated flag: False
+2026-07-22 02:43:57,432 DEBUG: Login username: 
+2026-07-22 02:43:57,432 WARNING: Admin login cancelled or failed.
+2026-07-22 02:44:02,434 INFO: Launching Hacker Wordlist Generator UI
+2026-07-22 02:44:02,434 INFO: Creating AdminLogin window
+2026-07-22 02:44:02,549 DEBUG: AdminLogin window created, calling mainloop()
+2026-07-22 02:46:43,215 INFO: Returned from login.mainloop()
+2026-07-22 02:46:43,215 DEBUG: Login authenticated flag: False
+2026-07-22 02:46:43,215 DEBUG: Login username: 
+2026-07-22 02:46:43,215 WARNING: Admin login cancelled or failed.
+2026-07-22 02:47:00,262 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 20:08:14,058 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 20:09:26,349 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 20:47:44,079 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 21:24:52,048 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 22:10:29,963 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 22:13:32,099 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 22:51:46,229 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 23:07:56,087 INFO: Launching Hacker Wordlist Generator UI
+2026-07-23 23:07:56,375 ERROR: Exception in HackerUI
+Traceback (most recent call last):
+  File "D:\project\wordlist_generator\app.py", line 16, in launch
+    app = HackerUI()
+  File "D:\project\wordlist_generator\ui.py", line 103, in __init__
+    self._build_right()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\project\wordlist_generator\ui.py", line 289, in _build_right
+    self.txt_output.tag_configure("match", background=ACCENT, foreground="#111111")
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CTkTextbox' object has no attribute 'tag_configure'. Did you mean: 'image_configure'?
+2026-07-23 23:09:39,079 INFO: Launching Hacker Wordlist Generator UI
+2026-07-24 00:07:43,023 INFO: Launching Hacker Wordlist Generator UI
+2026-07-24 00:17:14,040 INFO: Launching Hacker Wordlist Generator UI
+2026-07-24 00:21:56,754 INFO: Launching Hacker Wordlist Generator UI
+2026-07-24 00:33:17,330 INFO: Launching Hacker Wordlist Generator UI
